@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+
+    header {
+    background-color: black;
+    height: 40vh;
+    color: white;
+    text-align: center;
+    }
+
+    .firstpara {
+    padding-top: 45px;
+    font-family: 'Oleo Script', cursive;
+    font-size: 55px;
+
+    }
+
+    .secondpara {
+    padding-top: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    }
+
+    .main {
+    background-color: rgb(225, 225, 247);
+    height: 40vh;
+    }
+
+    .last {
+    background-color: rgb(112, 151, 199);
+    height: 60vh;
+    }
+
+    .image img {
+    height: 295px;
+    width: 400px;
+    float: right;
+    border: 2px solid rgb(51, 0, 255);
+    }
+
+    .quote p {
+    font-size: 28px;
+    padding: 95px 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    #bio {
+    /* text-align: center; */
+    font-size: 50px;
+    text-decoration: solid underline;
+    margin-left: 560px;
+    font-family: 'Secular One', sans-serif;
+    }
+
+    .content {
+    font-size: 23px;
+    margin: 28px 47px;
+    font-family: 'Baloo Bhai 2', cursive
+    }
+    .logos{
+        /* border: 2px solid green; */
+        float: right;
+        height: 40px;
+        width: 200px;
+        position: relative ;
+        bottom: 137px;
+        right: 40px;
+        
+
+    }
+    .logos img{
+        height: 53px;
+        width: 60px;
+        margin: -10px;
+    }
+    .logos img:hover{
+        cursor: pointer;
+    }
+    #twitterlogo {
+        height: 39px;
+        position: relative;
+        bottom: 8px;
+        margin-right:  11px;
+    }
+    #flag{
+        position: relative;
+        height: 80px;
+        width: 130px;
+        /* margin: 10px 10px; */
+        top: 37px;
+        left: 90px;
+
+    }
